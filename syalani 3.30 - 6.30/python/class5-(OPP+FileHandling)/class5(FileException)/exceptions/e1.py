@@ -21,7 +21,7 @@ except ZeroDivisionError:
 else:
     print(c)
 finally:
-    print("UIT Students working")
+    print("PAIC Students working")
 
 
 
